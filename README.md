@@ -1,6 +1,6 @@
 # Laravel TailwindCSS Configuration
 
-This repository contains the standard TailwindCSS configuration file used for ArtPort's Laravel applications.
+This repository contains the standard TailwindCSS configuration file used by ArtPort's Laravel applications.
 
 ## Installation
 
