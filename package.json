@@ -1,5 +1,6 @@
 {
     "name": "@artport/laravel-tailwindcss-configuration",
+    "type": "module",
     "version": "1.0.0",
     "description": "The standard TailwindCSS configuration file used by ArtPort's Laravel applications.",
     "repository": {
