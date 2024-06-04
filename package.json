@@ -6,11 +6,6 @@
         "type": "git",
         "url": "https://github.com/artport/laravel-tailwindcss-configuration.git"
     },
-    "keywords": [
-        "alpine",
-        "fetch",
-        "xhr"
-    ],
     "author": "ArtPort",
     "license": "MIT"
 }
