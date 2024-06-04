@@ -1,6 +1,6 @@
-# TailwindCSS Configuration
+# Laravel TailwindCSS Configuration
 
-This repository contains the standard TailwindCSS configuration file used for ArtPort applications.
+This repository contains the standard TailwindCSS configuration file used for ArtPort's Laravel applications.
 
 ## Installation
 
@@ -8,7 +8,7 @@ Simply add the package to `package.json` like so:
 
 ```bash
 "devDependencies": {
-    "@artport/tailwind-config": "github:artport/tailwind-config"
+    "@artport/laravel-tailwindcss-configuration": "github:artport/laravel-tailwindcss-configuration"
 },
 ```
 
@@ -19,7 +19,7 @@ Then add it to the `package.json` file's "postcss" section:
     "plugins": {
         "autoprefixer": {},
         "tailwindcss": {
-            "config": "node_modules/@artport/tailwind-config/config.js"
+            "config": "node_modules/@artport/laravel-tailwindcss-configuration/laravel-tailwindcss-configuration.js"
         }
     }
 }
