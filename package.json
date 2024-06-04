@@ -1,0 +1,16 @@
+{
+    "name": "@artport/laravel-tailwindcss-configuration",
+    "version": "1.0.0",
+    "description": "The standard TailwindCSS configuration file used by ArtPort's Laravel applications.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/artport/laravel-tailwindcss-configuration.git"
+    },
+    "keywords": [
+        "alpine",
+        "fetch",
+        "xhr"
+    ],
+    "author": "ArtPort",
+    "license": "MIT"
+}
