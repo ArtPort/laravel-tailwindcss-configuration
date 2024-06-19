@@ -1,6 +1,6 @@
 const fonts = {
-    mono : ['Söhne Mono', ...require('tailwindcss/defaultTheme').fontFamily.mono],
-    sans : ['Söhne',      ...require('tailwindcss/defaultTheme').fontFamily.sans],
+    mono : ['Roboto Mono', ...require('tailwindcss/defaultTheme').fontFamily.mono],
+    sans : ['Rubik',       ...require('tailwindcss/defaultTheme').fontFamily.sans],
 }
 
 const sizes = Array(101).fill('').map((v, i) => i).reduce((a, i) => ({ ...a, [`${i}px`]: `${i}px`}), {});
